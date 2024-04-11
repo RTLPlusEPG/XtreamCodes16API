@@ -4,7 +4,7 @@ class Database{
  
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "xtream_iptvpro";
+    private $db_name = "FREEIPTV";
     private $username = "H21g";
     private $password = "Jack_771";
     public $conn;
